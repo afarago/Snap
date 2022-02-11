@@ -474,9 +474,9 @@ SnapTranslator.dict.hu = {
     'change background %clrdim by %n':
         'háttér %clrdim változzon %n',
     'set pen %clrdim to %n':
-        'toll %clrdim legyen a %n',
+        'toll %clrdim legyen %n',
     'set background %clrdim to %n':
-        'háttér %clrdim legyen a %n',
+        'háttér %clrdim legyen %n',
     'pen %pen':
         'toll %pen',
     'change pen size by %n':
